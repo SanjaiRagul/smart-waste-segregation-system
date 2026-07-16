@@ -41,7 +41,7 @@ void loop() {
   if (distance < 15) {
 
     Serial.println("Object Detected...");
-    delay(500);   // Wait 2 seconds before checking moisture
+    delay(500); 
 
     // Check if object is still there
     digitalWrite(trigPin, LOW);
