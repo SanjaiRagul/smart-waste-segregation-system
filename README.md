@@ -1,2 +1,2 @@
-# smart-waste-segregation-system
-An Arduino-based Smart Waste Segregation System that automatically classifies wet and dry waste using an Ultrasonic Sensor, Soil Moisture Sensor, and Servo Motor for efficient and touch-free waste management.
+# Smart Waste Segregation System using Arduino
+An automatic waste segregation system that detects the presence of an object using an HC-SR04 Ultrasonic Sensor and classifies it as wet or dry waste using a Soil Moisture Sensor. Based on the detected waste type, a Servo Motor directs the waste into the appropriate bin.
